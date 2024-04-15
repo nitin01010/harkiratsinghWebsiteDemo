@@ -15,7 +15,7 @@ const Card = () => {
                 </p>
                 <span className=" mb-3 flex gap-3  justify-between">
                     <div className=" flex gap-2">
-                        <h2 className=" font-semibold">₹5599</h2>
+                        <h2 className=" font-semibold text-black">₹5599</h2>
                         <h3 className=" font-extralight text-gray-500"><del>7999</del></h3>
                     </div>
                     <h2 className=" font-semibold text-green-400">30.00% off</h2>
