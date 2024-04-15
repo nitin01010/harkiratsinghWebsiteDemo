@@ -8,9 +8,9 @@ const Card = () => {
                 className="rounded-t-lg"
                 src="/imgcouse2.jpeg"
                 alt="Thumnail" />
-            <div className="p-6 text-surface dark:text-white">
-                <h5 className="mb-2 text-xl font-medium leading-tight">Live 0-100 Complete</h5>
-                <p className="mb-4 text-base">
+            <div className="p-6 text-surface dark:text-black">
+                <h5 className="mb-2 text-xl text-black font-medium leading-tight">Live 0-100 Complete</h5>
+                <p className="mb-4 text-base text-black">
                     Go from 0 to 100 with Harkirat Singh Live. Learn basics to a..
                 </p>
                 <span className=" mb-3 flex gap-3  justify-between">
